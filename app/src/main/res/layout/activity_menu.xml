@@ -11,7 +11,7 @@
         android:layout_width="241dp"
         android:layout_height="wrap_content"
         android:scaleType="centerInside"
-        android:src="@drawable/title"
+        android:src="@drawable/grupo2"
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="50dp"
     />
